@@ -1,0 +1,7 @@
+ano = float (input("Digite o ano"))
+
+if ano % 4 == 0:
+    print ("É ano bissesto")
+
+else:
+    print ("Este não é um ano bissesto, tente novamente")
